@@ -1,1 +1,1 @@
-console.log("entrando no pentagono!")
+console.log("entrando no pentagono!");
